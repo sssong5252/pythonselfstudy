@@ -98,4 +98,3 @@ while(True):
         break
     
     crushed(car_num)
-    
