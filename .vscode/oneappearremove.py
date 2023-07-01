@@ -36,3 +36,5 @@ analyze_button.pack()
 
 # Tkinter 창 실행
 window.mainloop()
+
+딕딕셔너리가 업데이트 된다
